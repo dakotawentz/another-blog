@@ -1,0 +1,23 @@
+[
+    {
+      "first_name": "Janis",
+      "last_name": "Joplin",
+      "username": "jjoplin",
+      "email": "takeanotherlittlepieceofmyheart@hotmail.com",
+      "password": "password1"
+    },
+    {
+      "first_name": "Jerry",
+      "last_name": "Garcia",
+      "username": "jGarcia",
+      "email": "dancingbears@gmail.com",
+      "password": "password12"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Lennon",
+      "username": "jLennon",
+      "email": "imagine@aol.com",
+      "password": "password123"
+    }
+  ]

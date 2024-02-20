@@ -1,0 +1,38 @@
+[
+    {
+      "content": "What is this guy talking about!",
+      "createdAt": "January 15, 2022",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "content": "I can see what he meant",
+      "createdAt": "June 2, 2022",
+      "user_id": 3,
+      "post_id": 1
+    },
+    {
+      "content": "Peace and love mannnnn, even for robots!",
+      "createdAt": "March 18, 2022",
+      "user_id": 3,
+      "post_id": 2
+    },
+    {
+      "content": "What is your opinion?",
+      "createdAt": "November 1, 2022",
+      "user_id": 1,
+      "post_id": 2
+    },
+    {
+      "content": "lol",
+      "createdAt": "May 28, 2023",
+      "user_id": 2,
+      "post_id": 3
+    },
+    {
+      "content": "Never believe the media",
+      "createdAt": "May 30, 2023",
+      "user_id": 1,
+      "post_id": 3
+    }
+  ]
